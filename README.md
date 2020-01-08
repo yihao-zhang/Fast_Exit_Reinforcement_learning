@@ -1,3 +1,4 @@
 # Fast_Exit_Reinforcement_learning
 
-![Fast Exit](./Fast_Exit.gif)
+A sample case of agent (green) finds the exits (red) by avoiding the obstacles (blue)
+![](./Fast_Exit.gif)
