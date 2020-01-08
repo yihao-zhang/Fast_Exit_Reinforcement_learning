@@ -1,9 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
-import tensorflow as tf
-from collections import deque
-import os
 
 H = 15
 W = 15
